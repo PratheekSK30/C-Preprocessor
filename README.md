@@ -94,6 +94,13 @@ The executable name and input-file requirements depend on the implementation.
 
 This project helps develop an understanding of how source files can be processed before compilation and provides practical experience with file handling and text processing in C.
 
+## Output
+
+The program generates an intermediate preprocessed file named `abc.i`.
+
+The generated executable `my_preprocessor` and intermediate file `abc.i` are excluded from the GitHub repository using `.gitignore`.
+
+
 ## Author
 
 Pratheek S K
