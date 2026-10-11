@@ -52,7 +52,7 @@ The project may contain the following types of files:
 - `main.c` — Main program and processing flow
 - `*.c` — Source files implementing preprocessing operations
 - `*.h` — Header files, if required
-- `make_file` — Build instructions, if configured with this filename
+- Makefile — Build instructions
 - `README.md` — Project documentation
 - `.gitignore` — Files excluded from version control
 
