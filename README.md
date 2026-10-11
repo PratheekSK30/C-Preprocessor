@@ -56,8 +56,6 @@ The project may contain the following types of files:
 - `README.md` — Project documentation
 - `.gitignore` — Files excluded from version control
 
-Update this section to reflect the actual filenames in the repository.
-
 ## Compilation
 
 Compile the project using GCC:
