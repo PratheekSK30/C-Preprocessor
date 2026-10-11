@@ -1,13 +1,21 @@
-#include<stdio.h>
-#include<string.h>
-#define abc 3456
-#define pf printf
-#define coding 65
+
+#include <stdio.h>
+
+#define SIZE 10
+#define VALUE 25
+
+// Main function
 int main()
 {
-// delete single line comment
-int k=abc;
-/* remove multi line comment
-*/
-pf(“%d %d\n”,k,coding );
+    int a = SIZE;
+    int b = VALUE;
+
+    /*
+       Display the values
+       on the screen
+    */
+    printf("Size = %d\n", a);
+    printf("Value = %d\n", b);
+
+    return 0;
 }
