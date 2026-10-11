@@ -70,15 +70,15 @@ gcc main.c comments_removal.c headerfile_inclusion.c macro_replacement.c -o my_p
 ```
 ## Execution
 
-Run the generated executable using the appropriate command for your operating system.
-
-For example, on Linux:
+Run the preprocessor by providing the input C file:
 
 ```bash
-./a.out
+./my_preprocessor abc.c
 ```
 
-The executable name and input-file requirements depend on the implementation.
+The preprocessed output is generated in:
+
+`abc.i`
 
 ## Concepts Demonstrated
 
