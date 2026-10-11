@@ -63,7 +63,7 @@ Update this section to reflect the actual filenames in the repository.
 Compile the project using GCC:
 
 ```bash
-gcc main.c comments_removal.c headerfile_inclusion.c macro_replacement.c -o my_preprocessor
+gcc main.c comments_removal.c header_inclusion.c macro_replacement.c -o my_preprocessor
 ```
 ## Execution
 
