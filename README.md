@@ -63,14 +63,11 @@ Update this section to reflect the actual filenames in the repository.
 
 ## Compilation
 
-If the project uses a build file named `make_file`, compile it using:
+Compile the project using GCC:
 
 ```bash
-make -f make_file
+gcc main.c comments_removal.c headerfile_inclusion.c macro_replacement.c -o my_preprocessor
 ```
-
-Alternatively, use the compiler command specified by your implementation.
-
 ## Execution
 
 Run the generated executable using the appropriate command for your operating system.
