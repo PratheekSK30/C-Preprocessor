@@ -47,6 +47,7 @@ Preprocessed Output File (`.i`)
 - String Manipulation
 - Make Utility
 - Git and GitHub
+- DMA
 
 ## Project Structure
 
