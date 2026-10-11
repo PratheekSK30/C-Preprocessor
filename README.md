@@ -1,10 +1,6 @@
 
 # C Mini Preprocessor
 
-A C-based mini preprocessor developed to understand the basic preprocessing operations performed on C source files.
-
-## Overview
-
 The C Mini Preprocessor is a project that demonstrates how a C source file can be processed before compilation. It focuses on comment removal, header file inclusion, and macro collection and replacement using C programming and file handling.
 
 ## Features
